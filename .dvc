@@ -1,0 +1,8 @@
+/config.local
+/tmp
+/cache
+
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = C:/Program Files/Git/Desktop/new
